@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Christopher Luck
+- 👀 I’m interested in Software Development, Design, Programming.
+- 🌱 I’m currently learning Java, C++, C+, C#, Python, PHP
+- 💞️ I’m looking to collaborate on anything remotely related to software development.
+- 📫 How to reach me via email at chrluc1271@students.ecpi.edu.
