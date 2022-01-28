@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Christopher Luck
-- 👀 I’m interested in Software Development, Design, Programming.
-- 🌱 I have expierence with Java, C++, C+, C#, Python, PHP, Mobile Development, Object Oriented Programming.
-- 💞️ I’m looking to collaborate on anything remotely related to software development.
-- 📫 How to reach me via email at christopher_luck@live.com.
